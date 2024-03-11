@@ -1,3 +1,3 @@
 #100 Days OF RTL
 
-Day1 Full Subtractor
+Day1 half Subtractor
