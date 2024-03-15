@@ -37,6 +37,6 @@ d=k;
 end
 end
 initial
-$monitor("d[0]=%b,d[1]=%b,d[2]= %b,d[3]= %b,d[4] =%b,d[5]= %b,d[6]= %b,d[7] =%b,e[2]= %b,e[1]= %b,e[0] =%b,e=%b",
+  $monitor("d[0]=%b,d[1]=%b,d[2]= %b,d[3]= %b,d[4] =%b,d[5]= %b,d[6]= %b,d[7] =%b,e[2]= %b,e[1]= %b,e[0] =%b,e=%b,v=%b",
 d[0],d[1],d[2],d[3],d[4],d[5],d[6],d[7],e[2],e[1],e[0],v);
 endmodule
