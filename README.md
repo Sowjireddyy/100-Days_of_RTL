@@ -9,3 +9,5 @@ Day3 Full Adder using half subtractor
 Day4 3_8 Decoder
 
 Day5 8_3 Priority Encoder
+
+Day6 4-bit Ripple Carrry Adder
