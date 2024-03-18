@@ -13,3 +13,5 @@ Day5 8_3 Priority Encoder
 Day6 4-bit Ripple Carrry Adder
 
 Day7 Bidirectional Buffer
+
+Day8 Mux using Decoder and Tristate buffer
