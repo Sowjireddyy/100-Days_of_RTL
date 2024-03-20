@@ -18,4 +18,4 @@ Day8 Mux using Decoder and Tristate buffer
 
 Day9 4-bit carry look ahead adder
 
-Day10 Adder Subtractor Circuit
+Day10 4-bit Adder Subtractor Circuit
