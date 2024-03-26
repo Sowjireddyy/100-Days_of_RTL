@@ -21,3 +21,7 @@ Day9 4-bit carry look ahead adder
 Day10 4-bit Adder Subtractor Circuit
 
 Day11 1x16 Demultiplexer
+
+Day12 1-bit comparator
+
+Day13 N-bit comparator
