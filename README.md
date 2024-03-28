@@ -26,4 +26,7 @@ Day12 1-bit comparator
 
 Day13 N-bit comparator
 
-Day14 ALU
+Day14 8-Bit ALU
+
+Day15 4-Bit binary Multiplier
+
