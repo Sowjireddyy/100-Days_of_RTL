@@ -30,3 +30,5 @@ Day14 8-Bit ALU
 
 Day15 4-Bit binary Multiplier
 
+Day16 5 input Majority Circuit
+
