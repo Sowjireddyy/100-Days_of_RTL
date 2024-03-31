@@ -32,3 +32,5 @@ Day15 4-Bit binary Multiplier
 
 Day16 5 input Majority Circuit
 
+Day17 BCD to 7 Segment Display
+
