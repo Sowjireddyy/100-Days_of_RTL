@@ -34,3 +34,6 @@ Day16 5 input Majority Circuit
 
 Day17 BCD to 7 Segment Display
 
+Day18 Carry Select Adder
+
+
