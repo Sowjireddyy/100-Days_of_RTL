@@ -36,4 +36,6 @@ Day17 BCD to 7 Segment Display
 
 Day18 Carry Select Adder
 
+Day19 N-bit parity Generator
+
 
