@@ -38,4 +38,6 @@ Day18 Carry Select Adder
 
 Day19 N-bit parity Generator
 
+Day20 Decimal to Binary Encoder
+
 
