@@ -40,4 +40,5 @@ Day19 N-bit parity Generator
 
 Day20 Decimal to Binary Encoder
 
+Day21 1XN Demultiplexer
 
