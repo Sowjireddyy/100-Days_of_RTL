@@ -42,3 +42,5 @@ Day20 Decimal to Binary Encoder
 
 Day21 1XN Demultiplexer
 
+Day22 Gray to Binary Converter
+
