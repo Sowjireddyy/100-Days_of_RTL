@@ -49,3 +49,5 @@ Day23 Clock Buffer
 Day24 SR latch Using Gatelevel 
 
 Day25 Dlatch using mux
+
+Day26 D Flip Flop
