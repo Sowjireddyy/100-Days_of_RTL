@@ -51,3 +51,5 @@ Day24 SR latch Using Gatelevel
 Day25 Dlatch using mux
 
 Day26 D Flip Flop
+
+Day27 JK Flip Flop
