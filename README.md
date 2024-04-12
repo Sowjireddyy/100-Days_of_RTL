@@ -53,3 +53,5 @@ Day25 Dlatch using mux
 Day26 D Flip Flop
 
 Day27 JK Flip Flop
+
+Day28 T-Flip Flop using D-Flip FLop
