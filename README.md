@@ -57,3 +57,5 @@ Day27 JK Flip Flop
 Day28 T-Flip Flop using D-Flip FLop
 
 Day29 SISO
+
+Day30 PISO
