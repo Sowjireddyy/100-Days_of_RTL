@@ -22,20 +22,20 @@
 
 module bi_directional_shift_reg(
     input d_in,clk,rst,right,
-    output reg [3:0] d_out
+    output  [3:0] d_out
     );
     
-    
-    
-    
+     
+    reg [3:0] temp_reg;
+    assign d_out=temp_reg;
     always@(posedge clk)
       begin
        if(rst)
-         d_out<=0;
+         temp_reg<=0;
        else if(right)
-           d_out<={d_in,d_out[3:1]};
+           temp_reg<={d_in,temp_reg[3:1]};
        else 
-           d_out<={d_out[2:0],d_in};
+           temp_reg<={temp_reg[2:0],d_in};
      end
-     
+        
 endmodule
