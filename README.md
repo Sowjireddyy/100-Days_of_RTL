@@ -61,3 +61,5 @@ Day29 SISO
 Day30 PISO
 
 Day31 Dff Using JKff
+
+Day32 Bidirectional Shift Register
