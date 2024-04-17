@@ -63,3 +63,5 @@ Day30 PISO
 Day31 Dff Using JKff
 
 Day32 Bidirectional Shift Register
+
+Day33 Universal Shift Register
