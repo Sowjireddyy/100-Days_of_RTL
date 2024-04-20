@@ -69,3 +69,5 @@ Day33 Universal Shift Register
 Day34 4-Bit Loadable Binary Upcouter
 
 Day35 Mode-12 Loadable Upcounter
+
+Day36 4-Bit Loadable Up-Down Counter
