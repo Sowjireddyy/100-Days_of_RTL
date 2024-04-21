@@ -71,3 +71,5 @@ Day34 4-Bit Loadable Binary Upcouter
 Day35 Mode-12 Loadable Upcounter
 
 Day36 4-Bit Loadable Up-Down Counter
+
+Day37 Ring Counter
