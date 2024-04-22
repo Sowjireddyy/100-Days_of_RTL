@@ -21,30 +21,20 @@
 
 
 module ring_counter_4_bit(
-    input d_in,pre,clr,clk,
-    output reg d_out
+    input rst,clk,
+    output reg [0:3] count
     );
     
-    reg [0:3] temp;
     
-    always@(posedge clk or posedge clr or posedge pre)
+    always@(posedge clk)
     begin
-     if(clr)
-      begin
-      temp<=4'b0000;
-      d_out<=0;
-      end
-    else if(pre)
-     begin
-      temp<=4'b1111;
-      d_out<=1;
-     end
-    else
-     begin
-     temp<={d_in,temp[0:2]};
-      d_out<=temp[3];
-     end
+     if(rst)
+      count<=4'b0001;
+    else 
+      count<={count[3],count[0:2]};
    end
   
       
 endmodule
+
+
