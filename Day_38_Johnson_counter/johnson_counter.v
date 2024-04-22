@@ -28,9 +28,9 @@ module johnson_counter(
    always@(posedge clk)
     begin
      if(rst)
-      count=4'b0001;
+      count<=4'b0001;
       else
-       count={~count[3],count[0:2]};
+       count<={~count[3],count[0:2]};
     end
      
     
