@@ -20,68 +20,38 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 
-module ring_counter_tb();
-reg d_in,pre,clr,clk;
- wire d_out;
+
+ 
+  
+  module ring_counter_tb();
+reg rst,clk;
+ wire [3:0]count;
  
 
-ring_counter_4_bit DUT(d_in,pre,clr,clk,d_out);
+ring_counter_4_bit DUT(rst,clk,count);
 
 initial 
   begin
    clk=0;
   forever #5 clk=~clk;
   end
+ 
   
-  task initialize;
+  task reset;
   begin
-  d_in=0;
-
-
+  @(negedge clk)
+    rst=1'b1;
+  @(negedge clk)
+    rst=1'b0;
   end
   endtask
   
-  task clear;
-  begin
-  @(negedge clk)
-    clr=1'b1;
-  @(negedge clk)
-    clr=1'b0;
-  end
-  endtask
-  
-  task preset;
-  begin
-  @(negedge clk)
-    pre=1'b1;
-  @(negedge clk)
-    pre=1'b0;
-  end
-  endtask
+ 
   
   initial
   begin
-   initialize;
-   clear;
-   d_in=1'b0;
-   #10;
-   d_in=1'b1;
-   #10;
-   d_in=1'b1;
-   #10;
-   d_in=1'b0;
-   #50;
-   clear;
-   d_in=1'b1;
-   #10;
-   d_in=1'b0;
-   #10;
-   d_in=1'b1;
-   #10;
-   d_in=1'b0;
-   #50;
-   preset;
-   #60; 
+   reset;
+   #90; 
    $finish;
    
    
