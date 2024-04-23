@@ -75,3 +75,5 @@ Day36 4-Bit Loadable Up-Down Counter
 Day37 Ring Counter
 
 Day38 Johnson Counter
+
+Day39 Dual Port Ram 16X8
