@@ -79,3 +79,5 @@ Day38 Johnson Counter
 Day39 Dual Port Ram 16X8
 
 Day40 Single Port Ram 16X8
+
+Day41 sequence Detector 101
