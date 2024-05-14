@@ -89,3 +89,5 @@ Day43 FIFO 16X8
 Day44 Frequency Divider by Odd Number
 
 Day45 Rising Edge Detector
+
+Day46 Falling Edge Detector
