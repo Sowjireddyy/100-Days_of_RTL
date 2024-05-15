@@ -91,3 +91,5 @@ Day44 Frequency Divider by Odd Number
 Day45 Rising Edge Detector
 
 Day46 Falling Edge Detector
+
+Day47 Either Edge Detector
