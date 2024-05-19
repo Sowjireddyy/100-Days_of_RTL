@@ -95,3 +95,7 @@ Day46 Falling Edge Detector
 Day47 Either Edge Detector
 
 Day48 Sequence Detector
+
+Day49 SIPO
+
+Day50 Mod-N Counter
