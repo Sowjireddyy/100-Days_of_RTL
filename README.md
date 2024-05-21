@@ -99,3 +99,5 @@ Day48 Sequence Detector
 Day49 SIPO
 
 Day50 Mod-N Counter
+
+Day51 Logic Datatype in SV
