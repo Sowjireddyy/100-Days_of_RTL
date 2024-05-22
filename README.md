@@ -101,3 +101,5 @@ Day49 SIPO
 Day50 Mod-N Counter
 
 Day51 Logic Datatype in SV
+
+Day52 Struct Datstype in SV
