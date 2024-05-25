@@ -107,3 +107,5 @@ Day52 Struct Datstype in SV
 Day53 Enum Datatype in SV
 
 Day54 Type Convertions in SV
+
+Day55 String Datatype in SV
