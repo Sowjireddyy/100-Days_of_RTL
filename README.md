@@ -113,3 +113,5 @@ Day55 String Datatype in SV
 Day56 Packed Arrays in SV
 
 Day57 Packages in SV
+
+Day58 Unpacked Arrays in SV
