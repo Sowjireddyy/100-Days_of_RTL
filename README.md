@@ -115,3 +115,5 @@ Day56 Packed Arrays in SV
 Day57 Packages in SV
 
 Day58 Unpacked Arrays in SV
+
+Day59 Queues Arays in SV
