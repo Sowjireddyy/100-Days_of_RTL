@@ -119,3 +119,5 @@ Day58 Unpacked Arrays in SV
 Day59 Queues Arays in SV
 
 Day60 Assocative Array in SV
+
+Day61 Task Automatic in SV
