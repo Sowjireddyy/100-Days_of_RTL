@@ -126,4 +126,6 @@ Day62 pass by ref Function
 
 Day63 Interfaces in SV
 
-Day64 Clocking Blocks in Sv
+Day64 Clocking Blocks in SV
+
+Day65 Class in SV
