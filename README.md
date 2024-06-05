@@ -129,3 +129,5 @@ Day63 Interfaces in SV
 Day64 Clocking Blocks in SV
 
 Day65 Class in SV
+
+Day66 Shallow Copy in SV
