@@ -143,3 +143,5 @@ Day70 Super Keyword in SV
 Day71 Chaining Constructor in SV
 
 Day72 Static Methods in SV
+
+Day73 Polymorphism in SV
