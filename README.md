@@ -145,3 +145,5 @@ Day71 Chaining Constructor in SV
 Day72 Static Methods in SV
 
 Day73 Polymorphism in SV
+
+Day74 Parameterised Class in SV
