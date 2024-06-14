@@ -147,3 +147,5 @@ Day72 Static Methods in SV
 Day73 Polymorphism in SV
 
 Day74 Parameterised Class in SV
+
+Day75 Randomization in SV
