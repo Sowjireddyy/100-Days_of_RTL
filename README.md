@@ -153,3 +153,5 @@ Day75 Randomization in SV
 Day76 Constraint Overriding in SV
 
 Day77 Rand_mode in SV
+
+Day78 Scope Randomization in SV
