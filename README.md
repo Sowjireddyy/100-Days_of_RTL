@@ -169,3 +169,9 @@ Day83 Events in SV
 Day84 Disable Threads in SV
 
 Day85 Semaphores in SV
+
+Day86 Functional Coverage
+
+Day87 Immediate Assertion
+
+Day88 Deferred Immediate Assertion
