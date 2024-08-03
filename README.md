@@ -175,3 +175,5 @@ Day86 Functional Coverage
 Day87 Immediate Assertion
 
 Day88 Deferred Immediate Assertion
+
+Day89 Property Assertions
