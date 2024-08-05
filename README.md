@@ -179,3 +179,5 @@ Day88 Deferred Immediate Assertion
 Day89 Property Assertions
 
 Day90 System Function Assertions
+
+Day91 Implication operators
