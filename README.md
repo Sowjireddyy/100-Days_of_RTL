@@ -182,6 +182,8 @@ Day90 System Function Assertions
 
 Day91 Implication operators
 
-Day-92 consecutive repetition operator 
+Day92 consecutive repetition operator 
 
-Day-93 go to Repetition Operator 
+Day93 go to Repetition Operator 
+
+Day94 and construct in SVA
