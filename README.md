@@ -187,3 +187,5 @@ Day92 consecutive repetition operator
 Day93 go to Repetition Operator 
 
 Day94 and construct in SVA
+
+Day95 or construct in SVA
