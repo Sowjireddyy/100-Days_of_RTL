@@ -189,3 +189,7 @@ Day93 go to Repetition Operator
 Day94 and construct in SVA
 
 Day95 or construct in SVA
+
+Day95 throughout construct in SVA
+
+Day95 assertion technique in SVA
