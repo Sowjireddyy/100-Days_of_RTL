@@ -193,3 +193,5 @@ Day95 or construct in SVA
 Day96 throughout construct in SVA
 
 Day97 assertion technique in SVA
+
+Day98 pattren 0,1,0,2,0,3,0,4,0,5
