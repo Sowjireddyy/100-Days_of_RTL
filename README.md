@@ -194,4 +194,6 @@ Day96 throughout construct in SVA
 
 Day97 assertion technique in SVA
 
-Day98 pattren 0,1,0,2,0,3,0,4,0,5
+Day98 pattern 0,1,0,2,0,3,0,4,0,5
+
+Day99 pattern 9 19 29 39 49 59 69 79
